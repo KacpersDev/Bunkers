@@ -1,0 +1,4 @@
+name: Base
+version: '${project.version}'
+main: io.github.kacpers.Base
+api-version: 1.18
